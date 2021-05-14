@@ -1,0 +1,1451 @@
+2021-04-01 23:20:21,868 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:51] Dogodila se pogreska u programu pokausajem unosa 0 umjesto brojcane vrijednosti!
+2021-04-01 23:26:50,054 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:51] Dogodila se pogreska u programu pokausajem unosa 0 umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:42)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosZupanije(MetodeZaUnosPodataka.java:14)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:32)
+2021-04-01 23:32:40,206 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:51] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:42)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosZupanije(MetodeZaUnosPodataka.java:14)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:32)
+2021-04-04 23:29:26,076 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:52] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:43)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosZupanije(MetodeZaUnosPodataka.java:15)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:32)
+2021-04-05 00:28:19,710 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:53] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:44)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirBolestiVirusa(MetodeZaOdabir.java:21)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:32)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:42)
+2021-04-05 01:25:32,271 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:53] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:44)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirBolestiVirusa(MetodeZaOdabir.java:21)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:32)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:42)
+2021-04-06 21:37:38,568 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:52] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:43)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirBolestiVirusa(MetodeZaOdabir.java:22)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:33)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:43)
+2021-04-06 21:37:44,383 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:52] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:43)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirBolestiVirusa(MetodeZaOdabir.java:22)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:33)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:43)
+2021-04-06 21:39:19,238 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise putaOsoba: 
+Ime i prezime = Anic Juve
+Starost = 45
+Zupanija prebivalista = ZG
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:67)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-06 22:01:41,063 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:66)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-06 23:06:45,128 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:70)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:94)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:82)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-06 23:07:59,913 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:70)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:94)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:82)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-07 00:46:59,082 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:71)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:98)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:82)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-07 00:49:00,361 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:51] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:71)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:98)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:82)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:70)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:49)
+2021-04-07 12:55:39,046 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:53] Dogodila se pogreska u programu pokausajem unosa znakovne umjesto brojcane vrijednosti!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:44)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirBolestiVirusa(MetodeZaOdabir.java:23)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:33)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:43)
+2021-04-08 00:25:35,401 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:106] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-08 00:26:52,679 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 00:26:56,875 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:58] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise putaOsoba: 
+Ime i prezime = Jura Pura
+Starost = 54
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+[Osoba: 
+Ime i prezime = Domac Domagoj
+Starost = 15
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+]
+
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:86)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:74)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-08 00:32:52,449 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:33:03,491 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:33:04,170 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:33:10,697 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:33:11,656 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:33:28,818 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:33:41,106 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:33:42,514 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:33:50,834 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:33:53,283 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:33:56,529 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:34:17,450 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:34:18,486 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:35:07,432 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '0'
+2021-04-08 00:40:38,066 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:43:20,370 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:43:22,646 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:43:33,394 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:43:34,150 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:43:43,602 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:44:01,799 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:31] Pogreska, pokusali ste unijeti prazan string:  '' 
+2021-04-08 00:44:10,122 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:28] Pogreska, pokusali ste unijeti:  '0' 
+2021-04-08 00:44:53,969 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:44:55,465 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:45:22,818 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:45:24,617 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:45:37,021 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '0'
+2021-04-08 00:45:42,753 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:51] Pogreska, pokusali ste unijeti:  '-1' , molim ponovite Vas unos: 
+2021-04-08 00:45:49,314 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '99'
+2021-04-08 00:45:49,315 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '99'
+2021-04-08 00:45:54,001 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:90] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:45:54,002 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:45:55,082 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:46:22,986 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 00:46:25,630 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 00:47:20,090 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 00:49:19,178 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:19:10,898 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:19:21,066 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:19:21,922 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:19:29,858 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:19:30,586 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:19:40,363 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:19:51,266 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:19:53,658 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:20:09,490 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:20:11,042 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:20:27,890 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '0'
+2021-04-08 01:20:37,834 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:21:15,290 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:21:17,002 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:21:38,480 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:22:51,550 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:76] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 01:22:57,669 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:58] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta[Osoba: 
+Ime i prezime = Domagoj Borek
+Starost = 30
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+, Osoba: 
+Ime i prezime = Mario Kontent
+Starost = 36
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+[Osoba: 
+Ime i prezime = Domagoj Borek
+Starost = 30
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+]
+, null, null]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:77)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:86)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:74)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-08 01:26:23,551 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:26:39,991 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:26:41,826 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:26:55,458 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:26:56,246 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:27:29,746 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:27:38,531 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:27:40,586 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:28:14,802 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:28:16,930 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:28:19,634 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:28:35,323 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:28:37,779 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:29:12,224 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:29:48,726 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:76] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 01:29:54,791 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:58] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta[Osoba: 
+Ime i prezime = Domac Borek
+Starost = 30
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+, Osoba: 
+Ime i prezime = Mario Konte
+Starost = 36
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+[Osoba: 
+Ime i prezime = Domac Borek
+Starost = 30
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+KontaktiraneOsobe:
+Nema kontaktiranih osoba.
+]
+, null, null]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiraneOsobe(MetodeZaValidaciju.java:77)
+	at main.java.hr.java.covidportal.main.MetodeZaOdabir.odabirOsobe(MetodeZaOdabir.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:86)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:74)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-08 01:32:28,034 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:32:34,338 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:32:36,066 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:32:44,136 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:32:44,810 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:33:00,170 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:33:12,578 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:33:14,538 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:33:23,995 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:33:26,754 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:33:33,442 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:33:43,570 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:33:45,387 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:34:00,615 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:35:08,856 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:35:37,507 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:35:39,946 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:35:53,451 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:36:16,433 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:36:34,767 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:38:32,208 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaOdabir.java:45] Pogreska, pokusali ste unijeti:  '' 
+2021-04-08 01:38:48,656 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:02,202 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:02,867 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:39:10,554 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:39:11,218 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:39:21,435 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:39:29,643 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:31,539 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:40,346 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:42,738 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '4'
+2021-04-08 01:39:45,131 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:39:55,922 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:39:57,955 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:40:18,383 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:41:21,691 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:44:13,980 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:44:21,595 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:44:22,183 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:44:34,330 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:44:35,003 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:44:45,242 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:44:54,675 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:44:56,346 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:45:04,939 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:45:08,022 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 01:45:10,531 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:45:23,170 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:45:24,778 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 01:45:37,937 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 01:46:33,370 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:93] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 14:30:30,728 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 14:30:30,731 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 14:30:30,737 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:54] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:51)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:52)
+2021-04-08 14:30:35,171 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:32] Pogreska, pokusali ste unijeti:  '2' 
+2021-04-08 14:30:53,152 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 14:30:54,160 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 14:30:54,161 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 14:30:54,161 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:54] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=RIJETKO), Simptom(vrijednost=CESTO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:56)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:52)
+2021-04-08 14:31:04,288 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 14:31:05,432 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 14:31:05,432 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 14:31:05,432 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:54] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=CESTO), Simptom(vrijednost=RIJETKO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:56)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:52)
+2021-04-08 14:31:30,032 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 14:31:30,032 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 14:31:30,032 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:54] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:51)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:52)
+2021-04-08 14:31:42,728 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:22:26,365 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:22:26,369 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 17:22:26,377 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:55] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=RIJETKO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:51)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 17:22:35,411 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:22:36,443 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:22:36,444 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 17:22:36,444 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:55] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE), Simptom(vrijednost=CESTO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:56)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 17:22:43,365 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:22:43,972 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:22:43,973 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 17:22:43,973 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:55] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=RIJETKO), Simptom(vrijednost=CESTO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:56)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 17:22:53,139 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:22:53,139 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:75] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 17:22:53,140 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:55] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:76)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosBolesti(MetodeZaUnosPodataka.java:51)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 17:23:03,552 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:26:24,468 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:26:43,310 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:26:45,156 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:27:06,428 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:27:07,369 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:27:17,348 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:27:24,729 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:27:29,939 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:27:38,892 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:27:42,676 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:27:49,119 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:129] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '5' 
+2021-04-08 17:28:23,740 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:28:25,395 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:28:27,899 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:129] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '3' 
+2021-04-08 17:29:37,942 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:33:34,266 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:34:41,683 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:34:44,266 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:35:15,124 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:35:16,203 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:35:25,037 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:35:33,068 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:35:34,724 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:35:49,707 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:35:53,155 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:35:55,262 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:129] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-08 17:36:01,740 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 17:36:11,148 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:36:15,035 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:38:16,305 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:41:06,697 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 17:54:17,006 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 17:54:20,694 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:112] Pogreska, pokusali ste unijeti:  '4'
+2021-04-08 18:39:09,534 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 18:39:15,876 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:39:16,588 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 18:39:23,996 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 18:39:25,524 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 18:39:32,331 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:39:41,805 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:39:43,589 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:39:52,829 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:39:55,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 18:39:58,545 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:144] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-08 18:40:03,221 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 18:41:25,269 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 18:41:27,445 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 18:41:31,453 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 18:41:40,662 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:127] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 18:42:07,864 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:83] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 18:42:16,900 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:65] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta[Osoba: 
+Ime i prezime = Joza Josip
+Starost = 32
+Zupanija prebivalista = KR
+Zarazen bolescu = Gripa
+Kontaktirane osobe:
+[Osoba: 
+Ime i prezime = Domac Borek
+Starost = 31
+Zupanija prebivalista = KR
+Zarazen bolescu = Gripa
+Kontaktirane osobe:
+Nema kontaktiranih osoba.
+]
+, null]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:84)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:95)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:82)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:63)
+2021-04-08 19:31:02,172 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 19:31:37,118 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 19:31:38,798 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 19:31:55,814 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 19:31:58,590 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 19:32:03,041 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:85] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 19:33:08,396 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:57] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE), Simptom(vrijednost=CESTO)] [Simptom(vrijednost=CESTO), Simptom(vrijednost=SREDNJE)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:86)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:93)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 19:33:21,006 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 19:33:28,525 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:85] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 19:33:30,739 ERROR [main] m.j.h.j.c.m.Glavna [Glavna.java:57] Dogodila se pogreska u programu 
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=RIJETKO)] [Simptom(vrijednost=RIJETKO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:86)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:93)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 19:33:45,599 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:117] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:08:09,080 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:08:20,144 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:08:21,504 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:08:30,617 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:08:32,720 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:08:32,721 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 22:08:32,731 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaUnosPodataka.java:112] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=RIJETKO), Simptom(vrijednost=CESTO)] [Simptom(vrijednost=CESTO), Simptom(vrijednost=RIJETKO)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:90)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.hvatanjeIznimkeBolestIstihSimptoma(MetodeZaUnosPodataka.java:109)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 22:10:20,872 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:10:21,576 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:10:48,311 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:10:48,312 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 22:10:48,312 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaUnosPodataka.java:112] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima![Simptom(vrijednost=SREDNJE)] [Simptom(vrijednost=SREDNJE)]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:90)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.hvatanjeIznimkeBolestIstihSimptoma(MetodeZaUnosPodataka.java:109)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 22:11:01,232 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:12:32,562 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:12:34,449 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:12:45,768 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:12:47,392 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:12:48,961 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:132] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-08 22:12:51,888 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:13:01,144 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:13:02,324 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:13:09,056 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:13:11,971 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:13:11,972 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:98] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 22:13:11,984 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaUnosPodataka.java:129] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta[Osoba: 
+Ime i prezime = Ivo Ivic
+Starost = 25
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+Kontaktirane osobe:
+[Osoba: 
+Ime i prezime = Ana Anic
+Starost = 15
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+Kontaktirane osobe:
+Nema kontaktiranih osoba.
+]
+, null]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:99)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.hvatanjeIznimkeDuplikataOsobe(MetodeZaUnosPodataka.java:126)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:90)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:78)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 22:22:39,641 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:22:50,377 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:22:52,497 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '4'
+2021-04-08 22:22:56,097 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:132] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '5' 
+2021-04-08 22:23:05,731 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:23:07,369 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:23:07,369 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:98] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 22:23:07,369 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaUnosPodataka.java:129] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta[Osoba: 
+Ime i prezime = Ana Anic
+Starost = 15
+Zupanija prebivalista = KR
+Zarazen bolescu = Covid
+Kontaktirane osobe:
+Nema kontaktiranih osoba.
+, null, null]
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:99)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.hvatanjeIznimkeDuplikataOsobe(MetodeZaUnosPodataka.java:126)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:90)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:78)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 22:23:47,528 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:23:48,545 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:115] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:35:55,657 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:35:59,708 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:32] Pogreska, pokusali ste unijeti:  '2' 
+2021-04-08 22:36:16,097 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:36:18,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:36:29,970 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:36:30,998 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:36:30,999 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 22:36:31,012 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:131] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Covid' - '[Simptom(vrijednost=CESTO), Simptom(vrijednost=RIJETKO)]'
+'Gripa' - '[Simptom(vrijednost=RIJETKO), Simptom(vrijednost=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:128)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 22:37:32,530 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:37:33,332 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:40:11,185 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:40:11,185 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 22:40:11,185 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:131] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Prehlada' - '[Simptom(vrijednost=SREDNJE)]'
+'Bronhitis' - '[Simptom(vrijednost=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:128)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:53)
+2021-04-08 22:42:57,151 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:05,049 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:06,124 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:14,254 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:15,713 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:43:18,189 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:25,937 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:43:29,113 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:43:33,937 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:35,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:43:35,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 22:43:35,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Boro Jelic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:59)
+2021-04-08 22:48:00,241 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:48:09,556 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:48:11,729 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '4'
+2021-04-08 22:48:15,685 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:48:16,574 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:48:17,240 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:59:13,336 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 22:59:21,585 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:59:23,578 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:59:30,933 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 22:59:31,625 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 22:59:31,625 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 22:59:31,637 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:132] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Covid' - '[Simptom(vrijednost=RIJETKO), Simptom(vrijednost=CESTO)]'
+'Gripe' - '[Simptom(vrijednost=CESTO), Simptom(vrijednost=RIJETKO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:129)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 23:01:42,408 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:01:43,398 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:01:55,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:01:55,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 23:01:55,727 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:132] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Prehlada' - '[Simptom(vrijednost=SREDNJE)]'
+'Bronhitis' - '[Simptom(vrijednost=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:129)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 23:02:19,765 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:02:30,121 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:02:31,210 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:02:36,938 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:02:39,297 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:02:41,624 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:02:47,171 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:02:48,537 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:02:52,029 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:02:53,152 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:02:53,152 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:02:53,156 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'gfd fg'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:04:53,065 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:04:53,066 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:04:53,066 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'gfd fg'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:04:56,777 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:05:02,969 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:05:04,649 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:05:07,442 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:05:08,969 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:05:09,753 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:05:09,753 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:05:09,754 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'gfd fg'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:05:12,737 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:151] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:06:38,872 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:06:45,756 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:06:48,705 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:06:58,002 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:06:58,873 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:06:58,874 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 23:06:58,888 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:131] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'covid' - '[Simptom(vrijednost=CESTO), Simptom(vrijednost=SREDNJE)]'
+'gripa' - '[Simptom(vrijednost=SREDNJE), Simptom(vrijednost=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:128)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 23:09:46,688 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:09:56,633 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:09:58,673 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:10:05,578 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:10:06,489 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:10:06,490 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 23:10:06,503 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:131] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Gripa' - '[Simptom(vrijednost=SREDNJE), Simptom(vrijednost=CESTO)]'
+'Covid' - '[Simptom(vrijednost=CESTO), Simptom(vrijednost=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:128)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 23:10:37,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:10:38,810 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:10:49,673 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:10:49,673 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:82] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-08 23:10:49,674 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:131] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Prehlada' - '[Simptom(vrijednost=RIJETKO)]'
+'Bronhitis' - '[Simptom(vrijednost=RIJETKO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:83)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:91)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:128)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-08 23:11:05,535 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:11:16,364 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:11:17,761 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:11:31,169 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:11:33,084 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:11:36,058 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:11:45,837 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:11:47,971 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:11:51,201 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:11:52,730 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:11:52,730 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:11:52,734 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'dras katalenic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:14:54,649 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:15:09,849 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-08 23:15:12,209 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:15:15,649 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '1'
+2021-04-08 23:15:17,617 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:15:18,462 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:15:18,462 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:15:18,462 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'dras katalenic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:15:30,357 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '2'
+2021-04-08 23:15:30,358 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:99] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-08 23:15:30,358 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:114] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'dras katalenic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:100)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:111)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:88)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:76)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:60)
+2021-04-08 23:15:37,073 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:149] Pogreska, pokusali ste unijeti:  '3'
+2021-04-14 00:23:44,277 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:250] Pogreska, pokusali ste unijeti:  '56'
+2021-04-14 00:23:44,299 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:253] Pogreska, pokusali ste unijeti:  '56'
+2021-04-14 00:23:52,040 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:253] Pogreska, pokusali ste unijeti:  '15'
+2021-04-14 00:27:01,114 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:250] Pogreska, pokusali ste unijeti:  '18'
+2021-04-14 00:27:06,431 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:68] Pogreska, pokusali ste unijeti:  '-15' , molim ponovite Vas unos: 
+2021-04-14 00:27:11,494 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:253] Pogreska, pokusali ste unijeti:  '0'
+2021-04-15 16:08:17,251 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:248] Pogreska, pokusali ste unijeti:  '6'
+2021-04-15 16:08:17,251 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '6'
+2021-04-15 16:08:37,518 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '5'
+2021-04-15 16:08:49,504 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:248] Pogreska, pokusali ste unijeti:  '6'
+2021-04-15 16:08:49,504 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '6'
+2021-04-15 16:08:51,692 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '3'
+2021-04-15 16:09:01,225 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 16:09:08,695 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 16:09:22,382 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:10:38,802 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:12:46,824 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:25:25,905 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:28:17,585 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:31:28,095 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:33:34,307 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:33:38,871 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:34:20,179 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 16:34:41,947 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:34:43,931 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:34:51,730 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 16:34:53,183 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 16:34:56,230 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:34:34,175 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '126'
+2021-04-15 19:34:50,664 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '89'
+2021-04-15 19:35:37,153 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:35:48,817 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:35:49,673 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:36:00,553 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:36:03,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:36:12,737 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:36:15,321 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:36:18,998 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:36:27,298 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:36:28,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:36:32,433 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:54:14,752 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '420'
+2021-04-15 19:54:36,474 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '359'
+2021-04-15 19:55:11,953 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:55:14,201 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:56:02,161 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:56:12,986 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:56:15,401 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:56:22,659 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:56:27,333 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:56:43,904 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:56:48,321 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:56:51,602 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:57:02,609 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:57:05,121 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:57:06,905 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:273] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-15 19:57:11,194 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:57:20,561 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:57:21,857 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:57:33,073 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:57:35,377 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:58:16,682 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 19:58:17,897 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 19:58:21,690 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:01:52,088 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '985'
+2021-04-15 20:02:08,769 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '786'
+2021-04-15 20:02:22,937 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1502'
+2021-04-15 20:02:56,683 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:03:06,882 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:03:07,937 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:03:21,905 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:03:35,308 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:03:38,282 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:04:31,406 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:04:35,465 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:04:48,938 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '3'
+2021-04-15 20:04:50,881 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '3'
+2021-04-15 20:05:17,649 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:273] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '3' 
+2021-04-15 20:05:19,201 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:273] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-15 20:05:36,883 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:248] Pogreska, pokusali ste unijeti:  '3'
+2021-04-15 20:05:36,883 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '3'
+2021-04-15 20:05:39,054 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:08:56,134 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '123'
+2021-04-15 20:09:16,554 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:09:28,786 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:09:28,786 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-15 20:09:28,803 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:227] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Astma' - '[Simptom(vrijednostiSimptoma=RIJETKO)]'
+'Covid' - '[Simptom(vrijednostiSimptoma=RIJETKO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:116)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:224)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:59)
+2021-04-15 20:09:43,290 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:09:44,122 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:09:44,122 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-15 20:09:44,123 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:227] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Astma' - '[Simptom(vrijednostiSimptoma=RIJETKO)]'
+'Covid' - '[Simptom(vrijednostiSimptoma=RIJETKO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:116)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:224)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:59)
+2021-04-15 20:10:12,671 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1520'
+2021-04-15 20:10:22,645 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2410'
+2021-04-15 20:11:21,296 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1241'
+2021-04-15 20:11:37,793 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '12523'
+2021-04-15 20:12:00,737 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:12:01,689 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:12:16,354 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:12:28,234 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:12:29,874 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-15 20:12:38,545 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:12:41,057 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '2'
+2021-04-15 20:12:43,538 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:251] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:02:46,500 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1542'
+2021-04-16 12:02:59,851 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '568'
+2021-04-16 12:17:52,989 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:18:31,625 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:18:32,616 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:18:49,016 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:18:53,544 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:19:06,846 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:19:09,492 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:19:15,146 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:19:15,161 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:137] Pogreska, dogodila se nova oznacena iznimka, odabrana je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!Osoba: 
+Ime i prezime = Domagoj Borovcak
+Starost = 15
+Zupanija prebivalista = Varazdinska
+Zarazen bolescu = Astma
+Kontaktirane osobe:
+[Osoba: 
+Ime i prezime = Domagoj Borovcak
+Starost = 15
+Zupanija prebivalista = Varazdinska
+Zarazen bolescu = Korona
+Kontaktirane osobe:
+Nema kontaktiranih osoba.
+]
+
+2021-04-16 12:19:15,161 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:171] Pogreska, dogodila se nova oznacena iznimka, unesena je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!
+main.java.hr.java.covidportal.iznimke.PonovljenaOsobaException: Pogreska, dogodila se nova oznacena iznimka, odabrana je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!'Domagoj Borovcak'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraPonovljeneOsobe(MetodeZaValidaciju.java:138)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznikePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:159)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:64)
+2021-04-16 12:19:52,436 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:19:54,383 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:19:56,800 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:19:56,800 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:137] Pogreska, dogodila se nova oznacena iznimka, odabrana je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!Osoba: 
+Ime i prezime = Domagoj Borovcak
+Starost = 15
+Zupanija prebivalista = Varazdinska
+Zarazen bolescu = Astma
+Kontaktirane osobe:
+[Osoba: 
+Ime i prezime = Domagoj Borovcak
+Starost = 15
+Zupanija prebivalista = Varazdinska
+Zarazen bolescu = Korona
+Kontaktirane osobe:
+Nema kontaktiranih osoba.
+]
+
+2021-04-16 12:19:56,800 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:171] Pogreska, dogodila se nova oznacena iznimka, unesena je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!
+main.java.hr.java.covidportal.iznimke.PonovljenaOsobaException: Pogreska, dogodila se nova oznacena iznimka, odabrana je osoba sa istim imenom, prezimenom, starosti i zupanijom prebivalista!'Domagoj Borovcak'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraPonovljeneOsobe(MetodeZaValidaciju.java:138)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznikePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:159)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:64)
+2021-04-16 12:20:13,460 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:20:17,819 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:20:20,538 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:20:39,885 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:20:42,697 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:20:45,041 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:20:46,416 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:23:51,420 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '124'
+2021-04-16 12:24:07,278 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '845'
+2021-04-16 12:24:19,651 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '254'
+2021-04-16 12:24:36,535 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1452'
+2021-04-16 12:25:21,197 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:25:31,634 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:25:32,353 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:25:33,088 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:25:48,325 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:25:49,028 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:25:49,798 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:25:49,798 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:104] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-16 12:25:49,812 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:241] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Korona' - '[Simptom(vrijednostiSimptoma=SREDNJE), Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=CESTO)]'
+'Gripa' - '[Simptom(vrijednostiSimptoma=SREDNJE), Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:105)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:120)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:238)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-16 12:26:08,327 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:26:09,077 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:26:28,117 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:26:30,633 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:26:41,275 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:26:43,256 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:26:46,576 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:26:55,731 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:26:58,574 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:27:00,614 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:289] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '3' 
+2021-04-16 12:27:02,899 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:27:06,335 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:27:06,335 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:192] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-16 12:27:06,335 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:215] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Pero Peric'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:193)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:212)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:128)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:108)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznikePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:158)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:64)
+2021-04-16 12:27:12,871 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-16 12:27:26,328 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '4'
+2021-04-16 12:27:29,398 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:27:34,070 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '1'
+2021-04-16 12:27:35,108 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:27:35,936 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '3'
+2021-04-16 12:27:35,936 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:192] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-16 12:27:35,936 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:215] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Jure Juric'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:193)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:212)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:128)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:108)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznikePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:158)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:64)
+2021-04-16 12:27:38,349 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:266] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:30:59,904 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1452'
+2021-04-23 12:31:45,965 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3540'
+2021-04-23 12:32:19,716 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5412'
+2021-04-23 12:35:22,497 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:35:36,224 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:35:37,443 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:37:27,204 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:37:27,204 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 12:37:27,204 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Konjuktivitis' - '[Simptom(vrijednostiSimptoma=SREDNJE)]'
+'Hiv' - '[Simptom(vrijednostiSimptoma=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 12:39:01,348 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:39:02,135 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:39:18,269 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:39:19,488 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:39:22,630 INFO [main] m.j.h.j.c.m.Glavna [MetodeZaOdabir.java:121] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:41:14,145 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:42:44,356 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:42:46,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:42:46,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 12:42:46,726 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Covid' - '[Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=CESTO)]'
+'AIDS' - '[Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 12:43:00,384 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:43:00,384 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 12:43:00,384 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Konjuktivitis' - '[Simptom(vrijednostiSimptoma=SREDNJE)]'
+'Prehlada' - '[Simptom(vrijednostiSimptoma=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 12:43:13,988 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:43:14,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:43:14,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 12:43:14,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Hib' - '[Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=SREDNJE)]'
+'Prehlada' - '[Simptom(vrijednostiSimptoma=RIJETKO), Simptom(vrijednostiSimptoma=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 12:43:39,715 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:43:40,633 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:43:41,436 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:44:03,106 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:44:19,959 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:53:54,731 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:53:58,805 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:54:02,801 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:294] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-23 12:54:08,333 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:54:18,080 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:268] Pogreska, pokusali ste unijeti:  '6'
+2021-04-23 12:54:18,080 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '6'
+2021-04-23 12:54:20,256 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:54:24,222 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 12:54:31,861 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:54:33,366 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 12:54:33,366 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:192] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-23 12:54:33,366 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:215] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Ivan Goran Kovacic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:193)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:212)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:133)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:112)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:155)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:74)
+2021-04-23 12:54:40,287 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:56:03,433 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:56:06,003 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '6'
+2021-04-23 12:56:15,085 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 12:56:15,987 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 12:56:16,821 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:12:17,181 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '12'
+2021-04-23 13:12:26,841 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:13:08,765 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:13:10,487 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:13:28,259 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:13:29,146 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:13:37,727 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:13:47,775 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:21:10,171 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:27:26,749 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '25'
+2021-04-23 13:27:41,695 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2545'
+2021-04-23 13:27:56,793 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '152'
+2021-04-23 13:28:12,003 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '254'
+2021-04-23 13:29:07,308 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:29:14,177 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:29:30,752 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:29:37,289 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:29:38,307 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:30:11,252 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:30:12,995 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:30:12,995 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 13:30:12,995 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Gripa' - '[Simptom(vrijednostiSimptoma=CESTO), Simptom(vrijednostiSimptoma=SREDNJE)]'
+'Rota' - '[Simptom(vrijednostiSimptoma=SREDNJE), Simptom(vrijednostiSimptoma=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 13:30:25,235 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:30:26,824 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:30:28,894 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:30:28,894 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 13:30:28,894 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Covid' - '[Simptom(vrijednostiSimptoma=CESTO), Simptom(vrijednostiSimptoma=SREDNJE), Simptom(vrijednostiSimptoma=RIJETKO)]'
+'Rota' - '[Simptom(vrijednostiSimptoma=CESTO), Simptom(vrijednostiSimptoma=SREDNJE), Simptom(vrijednostiSimptoma=SREDNJE)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:67)
+2021-04-23 13:30:47,153 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:30:48,510 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:30:51,382 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:30:53,088 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:31:08,020 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:31:12,534 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:31:33,099 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:31:57,730 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:32:10,354 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:32:39,039 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '7'
+2021-04-23 13:32:48,569 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:32:54,611 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:33:11,162 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:33:17,413 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:33:26,025 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:33:36,189 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:33:39,970 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '6'
+2021-04-23 13:33:48,716 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:33:50,538 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:34:02,578 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:34:05,302 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:34:14,614 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:34:16,103 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:34:17,857 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:268] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:34:17,857 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:34:41,684 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 13:34:41,684 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:192] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-23 13:34:41,684 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:215] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Slaven Slavica'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:193)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:212)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:133)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:112)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:155)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:74)
+2021-04-23 13:34:46,243 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:34:59,455 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:35:02,518 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:35:13,167 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 13:35:15,189 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:35:27,159 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:35:32,074 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 13:35:39,482 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 13:35:40,486 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 13:35:41,241 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 20:32:48,126 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 20:32:54,879 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:33:22,647 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:33:32,407 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:33:32,407 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 20:33:32,419 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Konjuktivitis' - '[Simptom(vrijednostiSimptoma=CESTO)]'
+'Covid' - '[Simptom(vrijednostiSimptoma=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:68)
+2021-04-23 20:33:42,160 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:33:42,959 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:33:54,103 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:34:03,710 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:34:03,711 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 20:34:03,711 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Konjuktivitis' - '[Simptom(vrijednostiSimptoma=CESTO)]'
+'Prehlada' - '[Simptom(vrijednostiSimptoma=CESTO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:68)
+2021-04-23 20:34:12,774 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:34:13,568 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:268] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:34:13,568 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:34:17,631 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:34:18,607 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:34:18,607 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 20:34:18,607 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'Covid' - '[Simptom(vrijednostiSimptoma=CESTO), Simptom(vrijednostiSimptoma=RIJETKO)]'
+'Prehlada' - '[Simptom(vrijednostiSimptoma=CESTO), Simptom(vrijednostiSimptoma=RIJETKO)]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:68)
+2021-04-23 20:34:42,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:35:01,806 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 20:35:12,113 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:35:14,423 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:35:25,805 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:35:29,021 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:35:32,280 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:35:33,008 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:55:15,037 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 20:55:21,279 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:56:08,296 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:56:16,184 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:56:17,024 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:56:24,863 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:56:35,399 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:56:37,600 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:56:50,608 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:56:52,008 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:56:55,903 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 20:57:06,985 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:268] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:57:06,985 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:57:07,795 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 20:57:09,583 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 20:57:15,368 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:04:04,549 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:04:11,760 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:04:48,455 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:04:55,321 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:04:56,151 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:04:56,903 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:05:06,088 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:05:07,834 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:05:38,703 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:05:39,656 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:05:50,760 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:05:51,929 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:05:55,918 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:06:04,088 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:06:06,256 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:06:08,949 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:06:21,616 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:06:24,577 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:06:27,895 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:06:28,887 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:13:41,334 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '145'
+2021-04-23 21:13:50,068 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2541'
+2021-04-23 21:14:02,015 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:15:01,938 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:15:04,792 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:15:06,151 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 21:15:16,624 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:15:19,354 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 21:15:32,496 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:15:35,599 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:15:47,375 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:15:58,008 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:16:15,152 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:16:26,406 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:16:28,802 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:16:31,552 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:16:46,392 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:16:48,408 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-23 21:17:00,895 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:17:03,803 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:17:06,703 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:17:07,408 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:17:08,671 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:17:08,672 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:192] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+2021-04-23 21:17:08,678 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:215] Pogreska, dogodila se nova oznacena iznimka, odabrana je ista osoba vise puta!
+main.java.hr.java.covidportal.iznimke.DuplikatKontaktiraneOsobeException: Pogreska, odabrana je ista osoba vise puta 'Ana Anic'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraDuplikataKontaktiranihOsoba(MetodeZaValidaciju.java:193)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkeDuplikataOsobe(MetodeZaValidaciju.java:212)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosKontaktiraneOsobe(MetodeZaUnosPodataka.java:133)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosOsobe(MetodeZaUnosPodataka.java:112)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeOznaceneIznimkePonovljenaOsobaKodUnosa(MetodeZaValidaciju.java:155)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:75)
+2021-04-23 21:17:11,256 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:17:22,415 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:17:27,120 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:17:31,224 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:17:32,176 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:24:42,290 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:72] Pogreska, pokusali ste unijeti:  '0' 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:62)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBrojaSaListe(MetodeZaValidaciju.java:265)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosZupanije(MetodeZaUnosPodataka.java:32)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:54)
+2021-04-23 21:24:50,385 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:24:59,385 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:25:34,800 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:25:36,224 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:25:45,791 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:25:53,688 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:101] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest/virus sa istim simptomima!
+2021-04-23 21:25:53,697 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:246] Pogreska, dogodila se nova neoznacena iznimka, odabrana je bolest sa istim simptomima vise puta!
+main.java.hr.java.covidportal.iznimke.BolestIstihSimptomaException: Pogreska, odabrana je bolest/virus sa istim simptomima! 'konjuktivitis' - '[]'
+'Prehlada' - '[]'
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.istiSimptom(MetodeZaValidaciju.java:102)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.provjeraBolestiSaIstimSimptomima(MetodeZaValidaciju.java:117)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.hvatanjeNeoznaceneIznimkeBolestIstihSimptoma(MetodeZaValidaciju.java:239)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:68)
+2021-04-23 21:26:06,371 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:26:16,976 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:26:19,336 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:26:29,935 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:26:33,216 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-23 21:26:36,014 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:26:47,110 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:26:48,695 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:26:51,776 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:29:17,869 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:29:26,680 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '25'
+2021-04-23 21:30:02,856 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:30:15,120 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:30:16,855 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:30:49,837 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:31:01,721 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:31:04,312 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:31:12,912 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:31:14,831 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:31:21,743 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:31:23,065 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:31:34,689 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-23 21:31:36,816 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-23 21:31:40,432 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-23 21:31:41,159 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 18:57:00,638 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '15'
+2021-04-24 18:57:09,343 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '9'
+2021-04-24 18:57:22,384 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '19'
+2021-04-24 18:59:10,439 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 18:59:18,304 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 18:59:19,111 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 18:59:27,743 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 18:59:29,295 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 18:59:39,632 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 18:59:42,287 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 18:59:51,967 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 18:59:54,623 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 18:59:57,320 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:00:10,943 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:00:12,911 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:00:18,351 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:11:23,669 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '45'
+2021-04-24 19:11:32,000 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '451'
+2021-04-24 19:11:52,260 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '41'
+2021-04-24 19:12:23,703 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:12:31,400 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:12:34,210 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:12:46,855 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:12:47,575 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:13:00,080 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:13:01,708 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:13:11,807 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:13:14,908 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:13:17,773 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:13:28,191 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:13:29,703 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:13:31,903 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:46:38,359 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '13'
+2021-04-24 19:46:47,536 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '145'
+2021-04-24 19:47:04,304 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '25'
+2021-04-24 19:47:32,393 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:47:34,720 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:47:42,768 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:47:52,608 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:48:02,392 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:48:03,425 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:48:09,720 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:48:11,206 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:48:13,440 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:48:21,473 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:48:23,024 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:48:25,434 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:52:26,665 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:52:35,904 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '7'
+2021-04-24 19:52:48,616 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '8'
+2021-04-24 19:53:15,513 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:53:51,312 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:53:52,216 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:53:58,296 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:54:08,296 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:54:10,970 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:54:18,024 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:54:19,952 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 19:54:22,496 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 19:54:30,848 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:54:35,600 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 19:54:39,296 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 20:02:19,143 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 20:02:29,500 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '25'
+2021-04-24 20:02:45,688 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '4'
+2021-04-24 20:03:30,024 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 20:03:36,320 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 20:03:37,081 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 20:04:10,408 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 20:07:45,344 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 20:07:53,648 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 20:08:05,288 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 20:08:07,040 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-24 20:08:09,664 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '1'
+2021-04-24 20:08:16,566 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 20:08:19,177 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '3'
+2021-04-24 20:08:22,520 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '2'
+2021-04-25 22:03:10,235 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:273] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 00:49:51,409 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '15'
+2021-04-26 00:51:35,156 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '14'
+2021-04-26 00:52:00,402 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 00:52:10,482 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 00:52:19,080 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 00:52:20,315 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 00:52:27,391 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 00:52:28,696 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 00:52:31,720 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:10:44,781 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:10:52,613 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '415'
+2021-04-26 01:13:23,139 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:74] Pogreska, pokusali ste unijeti:  '0' 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:64)
+	at main.java.hr.java.covidportal.main.MetodeZaUnosPodataka.unosZupanije(MetodeZaUnosPodataka.java:31)
+	at main.java.hr.java.covidportal.main.Glavna.forSviUnosa(Glavna.java:142)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-26 01:13:27,105 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '41'
+2021-04-26 01:13:33,326 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:13:53,441 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:14:02,374 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:14:03,053 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:14:12,283 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:14:14,227 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:14:23,774 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:14:25,093 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:14:27,342 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:22:21,834 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:22:27,412 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '21'
+2021-04-26 01:22:31,944 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:23:16,753 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:23:23,613 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:23:31,711 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:23:32,947 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:23:40,695 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:23:41,975 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:23:54,825 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '3'
+2021-04-26 01:23:56,480 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:24:00,004 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:28:01,694 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:74] Pogreska, pokusali ste unijeti:  '0' 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at main.java.hr.java.covidportal.main.MetodeZaValidaciju.IntegerExHandler(MetodeZaValidaciju.java:64)
+	at main.java.hr.java.covidportal.main.Glavna.forSviUnosa(Glavna.java:138)
+	at main.java.hr.java.covidportal.main.Glavna.main(Glavna.java:56)
+2021-04-26 01:28:12,779 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:28:17,686 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:28:35,109 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:28:41,445 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:28:46,169 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:43] Pogreska, pokusali ste unijeti prazan string:  '' 
+2021-04-26 01:28:53,085 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:28:54,829 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
+2021-04-26 01:29:01,698 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:271] Pogreska, pokusali ste unijeti:  '5'
+2021-04-26 01:29:01,698 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '5'
+2021-04-26 01:29:03,608 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:29:04,798 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '2'
+2021-04-26 01:29:06,383 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:297] Broj kontaktiranih osoba ne moze biti veci od broja upisanih osoba  '2' 
+2021-04-26 01:29:08,465 ERROR [main] m.j.h.j.c.m.Glavna [MetodeZaValidaciju.java:274] Pogreska, pokusali ste unijeti:  '1'
